@@ -1,8 +1,8 @@
-#Algorithms sandbox
+# Algorithms sandbox
 
-##run
+## run
 gradle run
 
-##functionalities
+## functionalities
 * bubblesort for arrayList, time measurement
 * build in sort for arrayList, time measurement
