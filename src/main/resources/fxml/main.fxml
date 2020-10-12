@@ -36,6 +36,13 @@
                                                         <Button mnemonicParsing="false" onAction="#computeBuildInSort" text="Compute" />
                                                     </children>
                                                 </HBox>
+                                    <HBox layoutX="10.0" layoutY="36.0" spacing="10.0">
+                                       <children>
+                                          <Label text="Insertion sort" />
+                                           <TextField maxWidth="50" fx:id="insertionSortSize"/>
+                                           <Button mnemonicParsing="false" onAction="#computeInsertionSort" text="Compute" />
+                                       </children>
+                                    </HBox>
                                             </children>
                                         </VBox>
                                     </children>
